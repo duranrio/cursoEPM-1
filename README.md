@@ -16,5 +16,7 @@ Cambios realizados en el archivo con extension .ipynb
     - Se mejoraron los parametros del LSTM
     - Se aplico el inverse_transform para plotear las predicciones
 
+En el archivo de datosmaestros de .py se realizo el cambio de los parametros de la Red Neuronal.
+
 
 
